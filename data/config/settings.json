@@ -1,0 +1,7 @@
+{
+	
+	"maxCombatZoom":4.0, # zoomed out all the way
+	"combatSpeedMult":0.75f,
+	"fogOfWar":false,
+	
+}

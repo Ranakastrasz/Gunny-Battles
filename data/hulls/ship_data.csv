@@ -1,0 +1,31 @@
+name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,c/s,c/f,f/s,f/f,crew/s,crew/f,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
+PD Drone,drone_pd,,,,,30,10,100,,50,,,400,250,250,180,360,5,NONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0
+PD Drone,drone_pd_midline,,,,,30,10,100,,50,,,400,250,250,180,360,5,NONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,1
+Borer,drone_borer,,,,,200,25,200,,100,,,200,200,200,180,360,5,NONE,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,1.5
+Assault Drone,drone_assault,,,,,300,100,500,,100,,,300,200,200,90,180,5,OMNI,,120,0.25,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,2
+Sensor Drone,drone_sensor,,,,,30,10,400,,100,,,200,150,150,120,240,5,NONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,3
+Terminator,drone_terminator,,,,,500,100,200,,50,,,600,400,400,200,400,5,NONE,,360,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,4
+Merlon,merlon,,,,,3000,400,1600,,400,50,,500,400,300,60,90,200,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,0.4,2,2,,5
+Gargoyle,gargoyle,,,fortressshield,,1600,250,3000,3750,300,50,,500,400,300,60,90,200,OMNI,,360,0,0.6,,,0,0,,,,,,,,,,,,,,,,,,,,,,0.4,2,2,,6
+Ravelin,ravelin,,,forgevats_station,,4000,500,2400,,500,90,,500,400,300,60,90,200,FRONT,,120,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0.4,2,2,,7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Talon,talon,,Low Tech,,,200,25,400,,100,0,,650,400,300,150,300,10,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,100
+Dagger,dagger,,High Tech,,,300,10,200,,50,0,,350,350,250,90,180,10,OMNI,,160,0,1,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,101
+Wasp,wasp,,High Tech,,,100,10,500,,100,0,,650,500,450,180,360,10,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,102
+Xyphos,xyphos,,High Tech,,,450,50,600,,50,0,,320,300,250,90,180,30,OMNI,,160,0,1,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,103
+Broadsword,broadsword,,Low Tech,flarelauncher_fighter,,750,100,80,,10,0,,400,400,350,90,180,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,104
+Piranha,piranha,,Low Tech,,,500,75,200,,100,0,,300,200,200,40,120,30,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,105
+Trident,trident,,High Tech,,,500,25,500,,50,0,,260,150,125,30,90,50,OMNI,,180,0,1,,,3,3,,,,,,,,,,,,,,,,,,,,,,0,,,,106
+Longbow,longbow,,High Tech,,,300,10,100,,50,0,,400,400,300,90,180,20,OMNI,,160,0,1,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,107
+Mining Pod,mining_drone,,Low Tech,,,600,150,150,,100,0,,250,75,75,45,90,50,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,108
+Gladius,gladius,,Midline,flarelauncher_single,,500,75,200,,50,0,,600,400,300,150,300,40,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,109
+Warthog,warthog,,Midline,flarelauncher_fighter,,750,200,200,,50,0,,260,180,150,100,200,40,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,110
+Thunder,thunder,,Midline,,,500,75,750,,100,0,,900,600,500,150,300,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,111
+Claw,claw,,High Tech,,,300,25,150,,50,0,,550,350,300,120,240,20,OMNI,,160,0,1,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,112
+Khopesh,hoplon,,Low Tech,,,500,75,500,,100,0,,360,225,200,60,120,40,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,113
+Spark,spark,,Remnant,,,300,20,150,,50,0,,670,500,400,90,270,15,OMNI,,160,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,114
+Lux,lux,,Remnant,flarelauncher_fighter,,400,60,350,,50,0,,440,350,350,100,240,30,OMNI,,160,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,115
+Flash,flash,,Remnant,,,400,60,350,,50,0,,340,240,200,40,120,30,OMNI,,160,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,116
+Perdition,perdition,,Low Tech,,,400,50,50,,10,0,,280,150,150,30,90,15,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,117
+Cobra,cobra,,High Tech,,,400,25,400,,50,0,,320,200,200,30,120,40,OMNI,,120,0,1,,,4,4,,,,,,,,,,,,,,,,,,,,,,0,,,,118
+,aspect,Aspect,Unknown,,,600,300,1000,,200,0,,700,350,350,120,360,50,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,,,,119
