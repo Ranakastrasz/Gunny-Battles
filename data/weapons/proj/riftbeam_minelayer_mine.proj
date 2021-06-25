@@ -16,10 +16,10 @@
 	"explosionColor":[175,100,255,255],  # unused
 	"explosionRadius":0, # purely visual	
 	"renderTargetIndicator":false, # no target diamond in combat view, not targeted by flares
-	"engineSpec":{"turnAcc":2000,
-				  "turnRate":600,
-				  "acc":2000,
-				  "dec":2000},
+	"engineSpec":{"turnAcc":1000,
+				  "turnRate":300,
+				  "acc":1000,
+				  "dec":1000},
 	"behaviorSpec":{"behavior":"PROXIMITY_FUSE",
 					"onExplosionEffect":"com.fs.starfarer.api.impl.combat.RiftBeamMineExplosion",
 					"range":0,

@@ -11,10 +11,10 @@
 	"explosionColor":[255,165,0,255],  # purely visual, will get a white additively blended core on top of this color
 	"explosionRadius":75, # purely visual
 	"maxFlightTime":5,
-	"engineSpec":{"turnAcc":6000,
-				  "turnRate":3000,
-				  "maxSpeed":1600,
-				  "acc":3200,
+	"engineSpec":{"turnAcc":3000,
+				  "turnRate":1500,
+				  "maxSpeed":800,
+				  "acc":1600,
 				  "dec":0},
 	"engineSlots":[{"id":"ES1",
 					"loc":[-7, 0],

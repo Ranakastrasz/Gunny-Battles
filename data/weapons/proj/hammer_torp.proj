@@ -23,10 +23,10 @@
 	"armingTime":.5,
 	"noEngineGlowTime":0.5, # time spent without the engine glow being rendered
 	"fadeTime":0.5, # fadeout duration					 
-	"engineSpec":{"turnAcc":480,
-				  "turnRate":120,
-				  "acc":3000,
-				  "dec":800},
+	"engineSpec":{"turnAcc":240,
+				  "turnRate":60,
+				  "acc":1500,
+				  "dec":400},
 	"engineSlots":[{"id":"ES1",
 					"loc":[-10, 0],
 				    "style":"CUSTOM",

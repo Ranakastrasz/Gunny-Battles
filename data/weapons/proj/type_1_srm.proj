@@ -10,10 +10,10 @@
 	"explosionColor":[255,165,50,255],  # purely visual, will get a white additively blended core on top of this color
 	"explosionRadius":60, # purely visual
 	"fadeTime":1, # fadeout duration
-	"engineSpec":{"turnAcc":6880,
-				  "turnRate":960,
-				  "acc":10000,
-				  "dec":3200},
+	"engineSpec":{"turnAcc":3440,
+				  "turnRate":480,
+				  "acc":5000,
+				  "dec":1600},
 	#"engineSpec":{"turnAcc":240,
 	#			  "turnRate":120,
 	#			  "acc":400,
